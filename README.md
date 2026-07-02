@@ -4,9 +4,9 @@
 
 Web developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]()                                                 
+- 🔭 Here's my [portfolio](https://sandy14dpm.neocities.org/portfolio/)                                                 
 - 🌱 I’m currently learning and build my projects
-- Engineeing at [<img src="www.bec.ac.in">]
+- Engineeing at [<a href="https://bec.ac.in/">]
 
 
 
